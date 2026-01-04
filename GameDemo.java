@@ -16,4 +16,5 @@ public class GaneDemo {
 
         scanner.close();
     }
+
 }
